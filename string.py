@@ -1,0 +1,2 @@
+S = 'yazan'
+print(S)
