@@ -1,5 +1,3 @@
-from time import process_time_ns
-
 
 S = 'yazan'
 print(S)
